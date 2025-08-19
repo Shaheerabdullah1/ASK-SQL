@@ -1,0 +1,15 @@
+openai==1.98.0
+fastapi
+uvicorn
+groq
+pandas
+duckdb
+python-multipart
+seaborn
+openpyxl
+sqlalchemy
+python-dotenv
+matplotlib
+asyncpg
+requests
+psycopg2-binary
