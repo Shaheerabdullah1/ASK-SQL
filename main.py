@@ -15,9 +15,9 @@ import requests
 import traceback
 
 # ================== CONFIG =====================
-SQLCODER_API_URL = "https://snake-grown-slowly.ngrok-free.app/generate" 
-POSTGRES_URL = "postgresql+psycopg2://postgres:12345678@localhost:5432/postgres"
-ASYNC_POSTGRES_URL = "postgresql://postgres:12345678@localhost:5432/postgres"
+SQLCODER_API_URL = "" 
+POSTGRES_URL = ""
+ASYNC_POSTGRES_URL = ""
 
 app = FastAPI()
 app.add_middleware(
@@ -238,3 +238,4 @@ async def delete_data():
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8001)
+

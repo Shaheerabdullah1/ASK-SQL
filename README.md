@@ -23,7 +23,7 @@ ASK-SQL/
 │   ├── style.css        # Styling
 │   └── sql.png          # Logo
 │
-│── sample-files-for...  # Example datasets for testing
+│── sample-files-for-testing  # Example datasets for testing
 │── sample-queries       # Example NL-to-SQL prompts
 │── main.py              # Main FastAPI backend (upload, ask, delete-data)
 │── Model_API.py         # SQLCoder model API (deployed via ngrok / server)
