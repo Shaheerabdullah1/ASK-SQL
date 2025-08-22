@@ -1,0 +1,18 @@
+ecommerece_employees.sql
+Calculate average salary from employees table grouped by department ID
+Show me all employees from the employees table
+Show me employee names and their department names by joining employees and departments tables
+What is the average employee salary by department using the employees table?
+
+employees.sql
+show me all the employees from engineering department
+list down average salary from all departments
+
+LaptopData.csv
+show me the unique company for laptops
+show me the unique type of different laptops
+show me top 40 unique laptops
+
+HR_Table.sql
+show me the unique job title
+
