@@ -89,7 +89,7 @@ Now open [http://localhost:8080](http://localhost:8080) in your browser.
 
 ## 🛠 Tech Stack
 - **Backend**: FastAPI, SQLAlchemy, asyncpg, Pandas
-- **Model**: Llama-3 SQLCoder (HuggingFace Transformers, quantized for efficiency)
+- **Model**: Llama-3 SQLCoder -8B (HuggingFace Transformers, quantized for efficiency)
 - **Database**: PostgreSQL
 - **Frontend**: HTML, CSS, JavaScript
 - **Deployment**: ngrok (for exposing model API)
